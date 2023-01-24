@@ -1,0 +1,284 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main .contenedor {
+	width: 600px;
+	max-width: 1000px;
+	margin: 0px 30px 30px 30px;
+}
+
+/* ------------------------- */
+/* Estilos CSS del Reproductor */
+/* ------------------------- */
+.fm-video {
+	width: 100%;
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,.5);
+}
+
+
+
+.fm-video .vjs-play-progress,
+.fm-video .vjs-volume-level {
+	background: rgb(212, 71, 71);
+}
+
+.fm-video .vjs-slider {
+	
+	background: white;
+}
+
+.video-js:hover .vjs-big-play-button {
+	
+	background: rgba(223, 4, 4, 0.986);
+}
+
+.fm-video .vjs-big-play-button {
+	
+	background: rgb(236, 14, 14);
+	width: 80px;
+	height: 70px;
+	line-height: 80px;
+	border-radius: 20px;
+	border:none;
+}
+
+.fm-video .vjs-big-play-button:hover {
+	
+	background: rgba(201, 20, 20, 0.712);
+}
+
+
+@media screen and (max-width: 600px) {
+	header {
+		position: relative;
+		height: auto;
+	}
+
+	main {
+		margin-top: 50px;
+	}
+}
+.dd{
+	font-size: 12px;
+	text-decoration: none;
+	margin-top: 20px;
+}
+
+.coun{
+	display: flex;
+}
+.couns{
+	height: 40px;
+	border-radius: 20px;
+}
+
+.ne{
+	margin-left: 15px;
+}
+.subs{
+	color: #575656;
+	margin-top: -15px;
+	font-size: 12px;
+}
+.dis{
+	
+border-radius: 20px;
+display: flex;
+margin-top: 10px;	
+height: 40px;
+
+margin-left: 60px;
+padding: 6px;
+width: 130px;
+background: #f0efef;
+cursor: pointer;
+}
+
+.dis:hover{
+	background: #cacaca;
+}
+
+.noti2{
+	
+	
+	
+	height: 20px;
+	width: 20px;
+}
+.sus2 {
+	color: black;
+	font-size: 13px;
+	margin-left: 10px;
+}
+
+.dis2{
+	margin-right: 20px;
+	border-radius: 20px;
+display: flex;
+margin-top: 10px;	
+height: 40px;
+padding: 6px;
+width: 130px;
+background: #f0efef;
+cursor: pointer;
+}
+.tijeras{
+	margin-right: 20px;
+	border-radius: 20px;
+	margin-top: 10px;
+	padding: 6px;
+	cursor: pointer;
+	background: #f0efef;
+	height: 40px;
+	display: flex;
+}
+
+.puntos{
+	border-radius: 30px;
+	margin-top: 10px;
+	padding: 6px;
+	cursor: pointer;
+	background: #f0efef;
+	height: 40px;
+	display: flex;
+}
+.dislike{
+	margin-top: 4px;
+	margin-left: 12px;
+	height: 20px;
+	width: 20px;
+}
+.kk{
+	
+	display: flex;
+}
+.vermas{
+	width: 580px;
+	height: 200px;
+}
+
+/**/
+.gg{
+	font-size: 14px;
+	color: black;
+}
+.F{
+	margin-left: 20px;
+	color: black;
+	margin-right: 30px;
+}
+.ll{
+	color: black;
+    font-size: 15px;
+	
+}
+
+.mainn{
+	display: flex;
+}
+/**/
+.videoss{
+	border-radius: 7px;
+	width: 170px;
+}
+
+.videss{
+	display: flex;
+}
+.parras{
+	color: black;
+	font-size: 15px;
+}
+.letterss{
+	font-size: 12px;
+	color: rgb(92, 91, 91);
+}
+.q{
+	margin-top: -10px;
+}
+.qq{
+	margin-top: -15px;
+}
+.mm{
+	margin-left: 10px;
+}
+
+/**/
+.add-coments{
+	display: flex;
+	color: rgb(83, 83, 83);
+}
+
+.co{
+	margin-top: 30px;
+	margin-left: -12px;
+}
+.line{
+	margin-top: -10px;
+	width: 500px;
+	height: 1px;
+	background: rgb(83, 83, 83);
+}
+
+.phi{
+	cursor: pointer;
+	margin-left: -30px;
+	width: 100px;
+	height: 100px;
+	border-radius: 20px;
+}
+/**/
+
+.coments{
+	margin-bottom: 20px;
+	display: flex;
+}
+.fir{
+	
+	margin-left: 20px;
+	display: flex;
+}
+.yy{
+	font-size: 13px;
+	margin-right: 10px;
+}
+.iu{
+	color: #575656;
+	font-size: 12px;
+}
+.lk .par{
+	margin-top: -10px;
+	width: 400px;
+	
+}
+.yt{
+	display: flex;
+}
+
+.pul{
+
+	margin-right: 10px;
+	width: 20px;
+	height: 20px;
+}
+.sda{
+	cursor: pointer;
+	border-radius: 20px;
+	padding: 3px;
+	width: 93px;
+	height: 30px;
+	
+	margin-left: 15px;
+	font-size: 15px;
+}
+.sda:hover{
+
+	background: #cacaca;
+}

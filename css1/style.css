@@ -1,0 +1,260 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu{
+    margin-left: 20px;
+}
+
+.logo-youtube img{
+    height: 85px;
+    width: 150px;
+    margin-left: -488px;
+}
+
+.bor{
+    border-radius: 20px 0px 0px 20px;
+    color:gray;
+    border: solid rgb(161, 160, 160) 1px;
+    width: 400px;
+    margin-left: -760px;
+    height: 45px;
+}
+.bir{
+    background: rgba(248, 247, 247, 0.829);
+    border-radius: 0px 20px 20px 0px;
+    border: solid rgb(161, 160, 160) 1px;
+    height: 45px;
+    
+    
+    
+    
+}
+.search{
+    width: 50px;
+    height: 30px;
+}
+
+.bir:hover{
+    background: rgb(119, 119, 118);
+}
+
+.lupa{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.micropone{
+     margin-top: 10px;
+    width: 14px;
+    height: 18px;
+    margin-left: 9px;
+    
+}
+.micro-background{
+    margin-left: 20px;
+    border: rgb(240, 240, 240) 1px solid;
+    width: 35px;
+    height: 40px;
+    border-radius: 35px;
+    background:rgb(240, 240, 240);
+    cursor: pointer;
+}
+
+.micro-background:hover{
+    background: rgb(154, 155, 155);
+}
+
+.camera-video{
+    margin-left: 60px;
+    width: 35px;
+    height: 40px;
+}
+
+.camera-video:hover{
+background: rgb(154, 155, 155);
+    width: 35px;
+    height: 40px;
+    border-radius: 35px;
+    
+}
+
+.camera{
+    margin-left: 6px;
+    margin-top: 7px;
+    width: 23px;
+    height: 23px;
+    cursor: pointer;
+}
+
+.noti-photo{
+     margin-left: 20px;
+    width: 23px;
+    height: 23px;
+    cursor: pointer;
+}
+.photo{
+    margin-left: 20px;
+   
+}
+.photos{
+    width: 70px;
+   height: 70px;
+   margin-top: -15px;
+   cursor: pointer;
+}
+
+/*containers*/
+.container{
+    display: flex;
+}
+
+
+.container1{
+    
+    height: 700px;
+    width: 70px;
+    margin-left: -30px;
+    
+    
+}
+
+.divs img{
+    width: 50px;
+    height: 50px;
+    padding: 16px;
+    margin-left: 10px;
+}
+.divs:hover{
+    
+    border-radius: 5px;
+    background: rgb(247, 248, 248);
+    cursor: pointer;
+}
+
+
+.text{
+    margin-left: 23px;
+    font-size: 10px;
+}
+.text1{
+    margin-left: 8px;
+    font-size: 10px;
+   
+}
+.text2{
+    margin-left: 15px;
+    font-size: 10px;
+}
+/*navs*/
+.nav1 ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    
+}
+.nav1 ul li {
+    height: 32px;
+    background: rgb(233, 232, 232);
+    border-radius: 7px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.nav1 ul li:hover{
+    background: rgb(221, 221, 221);
+}
+
+.nav1 ul li a{
+    padding: 8px;
+}
+.todos a{
+    background: black;
+    border-radius: 7px;
+    
+    text-decoration: none;
+    
+}
+.todos{
+    
+    
+    color:white;
+}
+
+/**/
+.contei{
+ margin-left: 70px;
+    width: 470px;
+}
+.you{
+    height: 110px;
+    width: 250px;
+}
+.conte{
+    color: black;
+    font-size: 30px;
+}
+.laptop{
+    margin-left: -40px;
+    width: 400px;
+    height: 300px;
+}
+.im{
+    display: flex;
+}
+
+.pueva-pri{
+
+    width: 150px;
+    height: 40px;
+    border: solid blue 1px; 
+    border-radius: 20px;
+    background: white;
+    color: blue;
+}
+.pueva-pri:hover{
+    background: rgb(223, 222, 222);
+}
+/*video*/
+
+.container3{
+    display: flex;
+    width: 900px;
+}
+
+.vide{
+    cursor: pointer;
+    width: 400px;
+}
+.videos{
+    border-radius: 12px;
+    width: 280px;
+}
+.let {
+    display: flex;
+    margin-top: 15px;
+}
+.account{
+    height: 40px;
+    border-radius: 25px;
+}
+.parra{
+    margin-left: 10px;
+    width: 200px;
+}
+
+.letters p{
+    color: rgb(116, 115, 115);
+    margin-top: -10px;
+    margin-left: 40px;
+    font-size: 13px;
+}
+
+
+/*video a reproducir*/
+.reproducir{
+    text-decoration: none;
+    color: black;
+}
